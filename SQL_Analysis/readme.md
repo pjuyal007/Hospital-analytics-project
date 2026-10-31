@@ -6,7 +6,7 @@ This folder contains the SQL scripts used to create the hospital analytics datab
 
 | File | Description |
 |---|---|
-| `01_Create_Database.sql` | Creates the `hospital_analytics` database. | Creates database tables with appropriate data types, primary keys, and foreign keys.
+| `01_Schema_creation_and_data_loading.sql` | Creates the `hospital_analytics` database. | Creates database tables with appropriate data types, primary keys, and foreign keys.
 | `02_Analysis.sql` | Contains basic SQL queries for exploring hospital data. |
 | `03_Advanced_Analysis.sql` | Contains advanced SQL analysis using joins, subqueries, CTEs, and window functions. |
 
