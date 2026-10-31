@@ -183,19 +183,19 @@ Key analysis:
 ## 🖼️ Dashboard Preview
 
 ### Hospital Overview
-![Hospital Overview](06_Dashboard_Previews/Page-1.png)
+![Hospital Overview](Dashboard_Previews/Page-1.png)
 
 ### Patient Demographics
-![Patient Demographics](06_Dashboard_Previews/Page_2_Patient_Demographics.png)
+![Patient Demographics](Dashboard_Previews/Page-2.png)
 
 ### Encounters & Operations
-![Encounters & Operations](06_Dashboard_Previews/Page_3_Encounters_Operations.png)
+![Encounters & Operations](Dashboard_Previews/Page-3.png)
 
 ### Healthcare Costs & Payers
-![Healthcare Costs & Payers](06_Dashboard_Previews/Page_4_Healthcare_Costs_Payers.png)
+![Healthcare Costs & Payers](Dashboard_Previews/Page-4.png)
 
 ### Clinical Insights
-![Clinical Insights](06_Dashboard_Previews/Page_5_Clinical_Insights.png)
+![Clinical Insights](Dashboard_Previews/Page-5.png)
 
 ## ⚙️ How to Run the Project
 
