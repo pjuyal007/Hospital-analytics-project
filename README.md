@@ -43,12 +43,11 @@ Hospital-Analytics-Project/
 │
 ├── 02_Python_ETL/
 │   └── Hospital_Data_Cleaning.ipynb
-│
+│   |__  readme.md
+|
 ├── 03_SQL_Analysis/
-│   ├── 01_Create_Database.sql
-│   ├── 02_Create_Tables.sql
-│   ├── 03_Load_Data.sql
-│   ├── 04_Basic_Analysis.sql
+│   ├── 01_Schema_creation.sql
+│   ├── 02_Analysis.sql
 │   └── 05_Advanced_Analysis.sql
 │
 ├── 04_PowerBI_Dashboard/
