@@ -49,11 +49,12 @@ Hospital-Analytics-Project/
 │   ├── 01_Schema_creation.sql
 │   ├── 02_Analysis.sql
 │   └── 05_Advanced_Analysis.sql
+│   |__  readme.md
 │
 ├── 04_PowerBI_Dashboard/
 │   ├── Hospital_Analytics.pbix
 │   └── Hospital_Analytics.pdf
-
+│   |__  readme.md
 │
 ├── 05_Dashboard_Previews/
 │   ├── Page_1_Hospital_Overview.png
@@ -61,6 +62,7 @@ Hospital-Analytics-Project/
 │   ├── Page_3_Encounters_Operations.png
 │   ├── Page_4_Healthcare_Costs_Payers.png
 │   └── Page_5_Clinical_Insights.png
+│   |__  readme.md
 │
 └── README.md
 ```
