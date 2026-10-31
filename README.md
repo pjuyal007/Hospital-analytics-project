@@ -183,7 +183,7 @@ Key analysis:
 ## 🖼️ Dashboard Preview
 
 ### Hospital Overview
-![Hospital Overview](06_Dashboard_Previews/Page_1_Hospital_Overview.png)
+![Hospital Overview](06_Dashboard_Previews/Page-1.png)
 
 ### Patient Demographics
 ![Patient Demographics](06_Dashboard_Previews/Page_2_Patient_Demographics.png)
