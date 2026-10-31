@@ -37,26 +37,26 @@ The project follows this workflow:
 ```text
 Hospital-Analytics-Project/
 │
-├── 01_Raw_Data/
+├── Raw_Data/
 │   ├── README.md
 │   └── dataset_source_link.txt
 │
-├── 02_Python_ETL/
+├── Python_ETL/
 │   └── Hospital_Data_Cleaning.ipynb
 │   |__  readme.md
 |
-├── 03_SQL_Analysis/
+├── SQL_Analysis/
 │   ├── 01_Schema_creation.sql
 │   ├── 02_Analysis.sql
 │   └── 05_Advanced_Analysis.sql
 │   |__  readme.md
 │
-├── 04_PowerBI_Dashboard/
+├── PowerBI_Dashboard/
 │   ├── Hospital_Analytics.pbix
 │   └── Hospital_Analytics.pdf
 │   |__  readme.md
 │
-├── 05_Dashboard_Previews/
+├── Dashboard_Previews/
 │   ├── Page_1_Hospital_Overview.png
 │   ├── Page_2_Patient_Demographics.png
 │   ├── Page_3_Encounters_Operations.png
