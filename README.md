@@ -54,13 +54,9 @@ Hospital-Analytics-Project/
 ├── 04_PowerBI_Dashboard/
 │   ├── Hospital_Analytics.pbix
 │   └── Hospital_Analytics.pdf
+
 │
-├── 05_Workflow_Screenshots/
-│   ├── Python_ETL/
-│   ├── MySQL/
-│   └── PowerBI/
-│
-├── 06_Dashboard_Previews/
+├── 05_Dashboard_Previews/
 │   ├── Page_1_Hospital_Overview.png
 │   ├── Page_2_Patient_Demographics.png
 │   ├── Page_3_Encounters_Operations.png
