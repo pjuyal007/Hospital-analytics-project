@@ -227,7 +227,7 @@ Through this project, I gained practical experience in:
 
 **Pankaj Juyal**
 
-B.Tech Graduate | Aspiring Data Analyst
+B.Tech Graduate | Fresher Data Analyst
 
 **Skills:** Python | Pandas | MySQL | SQL | Power BI | Data Analysis
 
