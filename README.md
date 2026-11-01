@@ -56,6 +56,11 @@ Hospital-Analytics-Project/
 │   └── Hospital_Analytics.pdf
 │   |__  readme.md
 │
+|── WorkFLow_Screenshots/
+│   ├── Python_ETL/
+│   ├── MySQL/
+│   └── PowerBI/
+│
 ├── Dashboard_Previews/
 │   ├── Page_1_Hospital_Overview.png
 │   ├── Page_2_Patient_Demographics.png
